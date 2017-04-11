@@ -7,7 +7,7 @@ Submitted by: **Sushant Magoo**
 Time spent: **12+** hours spent in total
 ## Sample Image file
 
-<img src='https://raw.githubusercontent.com/sushantmagoo/CodePath_Android_PreWork/master/android_task.png' title='Sample Image' width=''/>
+<img src='https://raw.githubusercontent.com/sushantmagoo/Focus4DTestApp/master/android_task.png' title='Sample Image' width=''/>
 
 ## Video Walkthrough 
 
